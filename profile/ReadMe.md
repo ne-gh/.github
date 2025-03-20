@@ -32,4 +32,4 @@ Everyone is welcome to contribute! Don't be shy.
 
 ## Operating System Design:
 
-![../media/os_internals.png](../media/os_internals.png)
+![Operating System Design](../OS_DESIGN.png)
