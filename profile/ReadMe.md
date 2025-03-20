@@ -1,12 +1,12 @@
 # The NeKernel Operating System Project
 
-## Project's Purpose:
+## Purpose:
 
 This OS was designed to provide **a lightweight, fast, and modular alternative for embedded and workstation environments**, integrating SMP, Virtual Memory, and Preemptive Scheduling into a clean C++ architecture. 
 Originally developed for a startup, it now serves as an open-source platform for real-time and embedded applications.
 
-## Why NeOS?
-Unlike traditional Unix-based kernels (Linux, BSD), NeOS is built from the ground up 
+## Why NeKernel?
+Unlike traditional Unix-based kernels (Linux, BSD), NeKernel is built from the ground up 
 with a focus on modularity, low-latency IPC, and real-time responsiveness. 
 Its lightweight architecture makes it suitable for embedded, automotive, and workstation environments where predictable performance is critical.
 
@@ -28,4 +28,6 @@ Its lightweight architecture makes it suitable for embedded, automotive, and wor
 
 ## Contribute!
 
-Everyone is welcome to contribute! Don't be shy.
+Everyone is welcome to contribute! 
+<br/>
+Don't be shy.
