@@ -2,7 +2,7 @@
 
 ## Purpose:
 
-This OS was designed to provide **a lightweight, fast, and modular alternative for embedded and workstation environments**, integrating SMP, Virtual Memory, and SMP based Scheduling into a clean C++ architecture. 
+This OS was designed to provide **a lightweight, fast, and modular alternative for embedded and workstation environments**, integrating SMP, Virtual Memory, and SMP & preemptive based Scheduling into a clean C++ architecture. 
 Originally developed for a startup, it now serves as an open-source platform for real-time and embedded applications.
 
 ## Why NeKernel?
@@ -12,7 +12,7 @@ Its lightweight architecture makes it suitable for embedded, automotive, and wor
 
 ## Key Features (with status if applicable):
 
-- **SMP based Scheduling** → Efficient CPU core management for real-time, standard and multi-threaded applications. (Almost Done)
+- **SMP & preemptive based Scheduling** → Efficient CPU core management for real-time, standard and multi-threaded applications. (Done)
 - **Low-Latency IPC** → Optimized inter-process communication for high-performance systems. (Almost Done)
 - **Custom Filesystem (NeFS)** → With Journaling-enabled extensions (NeFileSystemJournal), optimized for fast I/O operations (Catalog lookup, Fast Catalog creation). (Done)
 - **Virtual Memory Management** → Supports paging and memory protection for reliability. (Done)
